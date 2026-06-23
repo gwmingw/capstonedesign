@@ -1,121 +1,41 @@
-Gyeongwon Min 
+# Gyeongwon Min
 
-📍 Seoul, South Korea  |  🗺️ Nationality: Republic of Korea 
+**Seoul, South Korea** | **Nationality:** Republic of Korea
 
----
+**Academic Interests:** Industrial AI, Manufacturing Data Science
 
-Personal Profile 
+## Education
 
-* 
-**Academic Interests:** Industrial AI, Manufacturing Data Science 
+### Sungkyunkwan University | Suwon, South Korea
 
+**Bachelor of Science in Systems Management Engineering**
+*2021 – Present*
 
-* 
-**Objective:** I seek to bridge the gap between theory and practice. I am particularly eager to master methodologies for enhancing model performance, such as Hyperparameter Optimization, and to understand the systematic process of deploying robust models in the field.
+* GPA: 3.88 / 4.5
+* Relevant Coursework: Applied Statistics, Data Structures and Algorithms, Data Mining, Robust System Design
 
+## Projects
 
+### Capstone Design Project (in Collaboration with Dahan-FA)
 
----
+*March 2026 – June 2026*
 
-Education 
+**Title:** RT-FAD: Real-Time Fault and Anomaly Detection for PLC-Controlled Pneumatic Systems Using Response Time Features
 
-### **Sungkyunkwan University** | 
+**Summary:**
 
-Suwon, South Korea 
+* Developed a real-time fault and load anomaly detection framework for pneumatic systems using only internal PLC data without additional sensors.
+* Proposed a predictive maintenance framework that integrates response time (Δt), load signals (D), and presence sensor signals (X) to detect equipment faults and abnormal loading conditions in real time.
 
-*Bachelor of Science in System Management Engineering* (2021 – Present) 
+**Literature Review:**
 
-* 
-**GPA:** 3.88 / 4.5 
+* Lee et al. (2021), *Escalator Anomaly Detection Using LSTM Autoencoder*
+* Maier et al. (2023), *Unsupervised Event Abstraction for Automatic Process Modeling of PLC-Controlled Automation Systems*
+* Wojtulewicz et al. (2025), *Industrial Robot Control System with a Predictive Maintenance Module Using IIoT Technology*
 
+**Research Outcome:**
 
-* 
-**Relevant Coursework:** Applied Statistics, Data Structures with Algorithms, Data Mining, Robust System Design, Smart Car Engineering 
-
-
-
----
-
-Experience 
-
-**SK AI Dream Camp** 
-
-*Participant* | Jul 2025 – Aug 2025 
-
-* Developed a predictive model for LTE base station performance status using telecommunication network data in a data science competition.
-
-
-
-**Segok Youth Study Room** 
-
-*Mentor* | Jul 2023 – July 2024 
-
-* Provided educational volunteering and mentoring for underprivileged youth.
-
-
-
----
-
-Projects 
-
-**Capstone Design Project** 
-
-*Collaborated with Dahan-FA* | Mar 2026 – Present 
-
-* Developing a PLC Operation Data-based AI Anomaly Diagnosis and Problem Solving Model.
-
-
-
-**Smart Car Engineering Project** 
-
-*University Automation Lab* | Dec 2025 – Jan 2026 
-
-* Implemented a Traffic Light Recognition System using OpenCV.
-
-
-
-**Robust System Design Project** 
-
-*University Sustainable Design and Manufacturing Lab* | Jul 2025 – Aug 2025 
-
-* Implemented a Bearing Fault Diagnosis Model using CNN.
-
-
-
----
-
-Honors & Skills 
-
-### 🏆 Awards
-
-* 
-**Academic Excellence Scholarship** (Top 3%, Aug 2025) 
-
-
-* 
-**Gangnam-gu Mayor's Citation** (Nov 2024) 
-
-
-
-### 📜 Certifications
-
-* 
-**ADSP** (Advanced Data Analytics Semi-Professional) 
-
-
-* 
-**SQLD** (SQL Developer) 
-
-
-
-### 🛠️ Technical Skills
-
-* 
-**Tools & Languages:** Python, Mathematica, Minitab 
-
-
-
-### 🗣️ Languages
-
-* 
-**English:** OPIc IH
+* Built a PLC-MX Component–Python data collection pipeline.
+* Implemented a response time–based fault diagnosis algorithm for pneumatic systems.
+* Developed load anomaly detection techniques based on cross-validation of D and X signals.
+* Patent application and software copyright registration currently in progress.
